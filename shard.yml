@@ -1,0 +1,13 @@
+name: tiny-huge-undertaking
+version: 0.1.0
+
+authors:
+  - Guillaume Ballet <gballet@gmail.com>
+
+targets:
+  tiny-huge-undertaking:
+    main: src/tiny-huge-undertaking.cr
+
+crystal: 0.27.2
+
+license: The Unlicense
